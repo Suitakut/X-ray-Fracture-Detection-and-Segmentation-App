@@ -1,0 +1,54 @@
+# Virtual Environment
+xray-project/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Model files (if large)
+*.pt
+*.pth
+*.h5
+*.onnx
+best.pt
+last.pt
+
+# Data files (if large)
+*.csv
+*.xlsx
+*.zip
+*.tar.gz
+
+# Logs
+*.log
